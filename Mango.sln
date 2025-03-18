@@ -15,7 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mango.Services.CouponAPI", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mango.Web", "Mango.Web\Mango.Web.csproj", "{A9F13FA4-BB3E-46FD-8DB0-4353D96DF3FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mango.Services.ProductAPI", "Mango.Services.ProductAPI\Mango.Services.ProductAPI.csproj", "{7D4F3BAD-23E5-41A8-B63C-3936146651FB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mango.Services.AuthAPI", "Mango.Services.AuthAPI\Mango.Services.AuthAPI.csproj", "{25966CF0-F661-48A8-A197-A7631AFE7389}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,10 +31,10 @@ Global
 		{A9F13FA4-BB3E-46FD-8DB0-4353D96DF3FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9F13FA4-BB3E-46FD-8DB0-4353D96DF3FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9F13FA4-BB3E-46FD-8DB0-4353D96DF3FD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7D4F3BAD-23E5-41A8-B63C-3936146651FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7D4F3BAD-23E5-41A8-B63C-3936146651FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7D4F3BAD-23E5-41A8-B63C-3936146651FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7D4F3BAD-23E5-41A8-B63C-3936146651FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25966CF0-F661-48A8-A197-A7631AFE7389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25966CF0-F661-48A8-A197-A7631AFE7389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25966CF0-F661-48A8-A197-A7631AFE7389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25966CF0-F661-48A8-A197-A7631AFE7389}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -42,7 +42,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{071CFA0E-DFD6-472D-B362-22D2CDF0FBDC} = {1890F85B-40B8-4233-995A-83FAE131C0D1}
 		{A9F13FA4-BB3E-46FD-8DB0-4353D96DF3FD} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
-		{7D4F3BAD-23E5-41A8-B63C-3936146651FB} = {1890F85B-40B8-4233-995A-83FAE131C0D1}
+		{25966CF0-F661-48A8-A197-A7631AFE7389} = {1890F85B-40B8-4233-995A-83FAE131C0D1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A475A3CC-EF19-43A8-AE6D-50B80C7B7F48}
